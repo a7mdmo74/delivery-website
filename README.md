@@ -7,4 +7,4 @@
 
 [Website Demo](https://delivery-website-a7mdmo74.vercel.app/)
 
-![Screenshot 2022-02-26 155435](https://user-images.githubusercontent.com/62913154/155845815-b82e29ee-5372-4dc4-b576-9322bbc870ed.jpg)
+![SharedScreenshot](https://user-images.githubusercontent.com/68064222/176208376-516dcafc-d5fa-4f57-9b04-ebdc73f4c9c4.jpg)
